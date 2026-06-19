@@ -1,0 +1,6 @@
+1. No exponer datos personales ni información de identificación civil de los usuarios de la comunidad.
+2. Proteger las credenciales y claves de acceso mediante el uso de contraseñas robustas y autenticación de dos factores (2FA).
+3. Usar conexiones seguras y cifradas mediante protocolos como HTTPS y SSH para evitar la intercepción de datos.
+4. Registrar y auditar los accesos y eventos para detectar actividades anómalas o ingresos no autorizados.
+5. Limitar el acceso a información sensible o de administración otorgando permisos únicamente a los roles que lo requieran.
+EOF

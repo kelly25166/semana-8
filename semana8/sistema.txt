@@ -1,0 +1,6 @@
+- uname -a: Muestra información detallada del sistema operativo, incluyendo el nombre del kernel, la versión, la arquitectura de la máquina y la fecha de compilación.
+- whoami: Muestra el nombre de usuario con el que has iniciado sesión actualmente en la terminal.
+
+Por qué es útil conocer información del sistema al administrar un servidor:
+Es útil para verificar la versión exacta del sistema operativo y los parches instalados, comprobar si la arquitectura soporta ciertas aplicaciones, identificar problemas de compatibilidad y saber con qué privilegios se están ejecutando los procesos.
+EOF
